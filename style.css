@@ -1,0 +1,119 @@
+.html,body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.all{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.logo{
+    margin-left: 112px;
+    margin-bottom: 17px;
+    margin-top: 7px;
+
+}
+.middle{
+    border-color: #DDDDDD;
+    border-width: 0.2px;
+    border-style: solid;
+    border-radius: 7px;
+    padding-left: 24px;
+}
+.signin{
+    font-size: 28px;
+    padding-top: 9px;
+    margin-top: 9px;
+    margin-bottom: 14px;
+}
+.email{
+    font-size: 14px;
+     
+    padding-top: -19px;
+    margin-top: 9px;
+    margin-bottom: 2px;
+}
+.text{
+    width: 290px;
+    height: 24px;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #949494;
+    border-width: 0.01px;
+    margin-top: 2px;
+    
+}
+.buttons{
+    background-color: #ffd51c;
+    width: 294px;
+    height: 24px;
+    border: none;
+    border-radius: 6px;
+    padding-top: 7px;
+    padding-bottom: 24px;
+}
+.shabhnam ,.foote{
+    font-size: 13px;
+}
+.conditions,.privacy, .need ,.forgot ,.other,.shop,.foote{
+    color: rgb(17, 103, 208);
+    cursor: pointer;
+}
+.buying{
+    font-weight: bold;
+}
+.createb{
+    background-color: white;
+    width: 340px;
+    height: 32px;
+    border-color: #DDDDDD;
+    border-style: solid;
+    border-radius: 7px;
+    border-width: 0.2px;
+    box-shadow: 9px;
+    cursor: pointer;
+}
+.prep{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:11px;
+    cursor: pointer;
+}
+.final{
+    font-size: 11px;
+    padding-left: 69px;
+    color: #5c5c5c;
+}
+.last{
+    background-color:#fff9f9 ;
+    padding-top: 14px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    padding-left: 470px;
+}
+.cont{
+    margin-top: 22px;
+     
+}
+.need{
+    margin-top: 27px;
+    margin-bottom: 3px;
+}
+.line{
+    padding-right: 4px;
+}
+.shop{
+    margin-bottom: 22px;
+}
+.other{
+    margin-bottom: 39px;
+}
+.news{
+    margin-top: 20px;
+    align-items: center;
+    margin-bottom: 13px;
+    padding-left: 130px;
+    font-size: 12px;
+}
+.prep{
+    color: rgb(17, 103, 208);
+    cursor: pointer;  
+
+}
